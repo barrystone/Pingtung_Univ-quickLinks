@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "118294324bfb2a8acc52b97ae3d0256d",
+    "revision": "b651e82edd9b2273d33186aad5c81848",
     "url": "/Pingtung_Univ-quickLinks/index.html"
   },
   {
