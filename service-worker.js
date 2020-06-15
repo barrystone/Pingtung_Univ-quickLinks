@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pingtung_Univ-quickLinks/precache-manifest.2184ce17e96dd45c887129b63680fcfa.js"
+  "/Pingtung_Univ-quickLinks/precache-manifest.786d0cb5292ec5c06a488b25a4f99047.js"
 );
 
 self.addEventListener('message', (event) => {
