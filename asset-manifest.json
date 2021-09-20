@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Pingtung_Univ-quickLinks/static/css/main.044ee7e0.chunk.css",
-    "main.js": "/Pingtung_Univ-quickLinks/static/js/main.653d5e74.chunk.js",
-    "main.js.map": "/Pingtung_Univ-quickLinks/static/js/main.653d5e74.chunk.js.map",
+    "main.js": "/Pingtung_Univ-quickLinks/static/js/main.ce3e9c5f.chunk.js",
+    "main.js.map": "/Pingtung_Univ-quickLinks/static/js/main.ce3e9c5f.chunk.js.map",
     "runtime-main.js": "/Pingtung_Univ-quickLinks/static/js/runtime-main.974bbd9d.js",
     "runtime-main.js.map": "/Pingtung_Univ-quickLinks/static/js/runtime-main.974bbd9d.js.map",
     "static/js/2.32355a50.chunk.js": "/Pingtung_Univ-quickLinks/static/js/2.32355a50.chunk.js",
     "static/js/2.32355a50.chunk.js.map": "/Pingtung_Univ-quickLinks/static/js/2.32355a50.chunk.js.map",
     "index.html": "/Pingtung_Univ-quickLinks/index.html",
-    "precache-manifest.999afd9cab1b62b2f83d1edd787380ce.js": "/Pingtung_Univ-quickLinks/precache-manifest.999afd9cab1b62b2f83d1edd787380ce.js",
+    "precache-manifest.d80558452f5985a5aa76eb3f596b5c9d.js": "/Pingtung_Univ-quickLinks/precache-manifest.d80558452f5985a5aa76eb3f596b5c9d.js",
     "service-worker.js": "/Pingtung_Univ-quickLinks/service-worker.js",
     "static/css/main.044ee7e0.chunk.css.map": "/Pingtung_Univ-quickLinks/static/css/main.044ee7e0.chunk.css.map",
     "static/js/2.32355a50.chunk.js.LICENSE.txt": "/Pingtung_Univ-quickLinks/static/js/2.32355a50.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.974bbd9d.js",
     "static/js/2.32355a50.chunk.js",
     "static/css/main.044ee7e0.chunk.css",
-    "static/js/main.653d5e74.chunk.js"
+    "static/js/main.ce3e9c5f.chunk.js"
   ]
 }

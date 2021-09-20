@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b651e82edd9b2273d33186aad5c81848",
+    "revision": "72c95461affe2382bc56b8049238a523",
     "url": "/Pingtung_Univ-quickLinks/index.html"
   },
   {
-    "revision": "85ca28106809f9134941",
+    "revision": "8d56e338f6e539f36022",
     "url": "/Pingtung_Univ-quickLinks/static/css/main.044ee7e0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pingtung_Univ-quickLinks/static/js/2.32355a50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85ca28106809f9134941",
-    "url": "/Pingtung_Univ-quickLinks/static/js/main.653d5e74.chunk.js"
+    "revision": "8d56e338f6e539f36022",
+    "url": "/Pingtung_Univ-quickLinks/static/js/main.ce3e9c5f.chunk.js"
   },
   {
     "revision": "511f63177ac38c81e809",
